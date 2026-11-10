@@ -1,0 +1,29 @@
+.crimson {
+    color: crimson;
+}
+
+.green-team {
+    color: green;
+}
+
+.maize {
+    color: #e6bf40;
+}
+
+.red-team {
+    color: red;
+}
+
+.burnt-orange {    
+    color: #bf5700;
+ }
+
+#yesButton {    
+    color: white;
+    background-color: green;
+ }
+
+#noButton {
+    color: white;
+    background-color: red;
+}
